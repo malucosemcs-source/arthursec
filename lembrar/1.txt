@@ -1,0 +1,14 @@
+Soma +
+Subtração -
+Multiplicação(vezes) *
+Divisão	/
+Divisão inteira	//
+Resto da divisão %
+Potência **
+
+ORDEN de precefencia 
+
+1=()
+2=¨
+3=*,/,//,%
+4=+,-

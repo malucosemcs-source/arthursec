@@ -1,0 +1,6 @@
+a=input('digite algo:')
+print('a calse dele e:', type(a))
+print('ele e formado apenas por letras?', a.isalpha())
+print('ele e formado apenas por numeros?', a.isnumeric())
+print('ele e contem numeros ou letras?', a.isalnum())
+print('ele e formado apenas por espaços?', a.isspace())
