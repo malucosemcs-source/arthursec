@@ -1,0 +1,6 @@
+numero=int(input('digite um numero de ate 4 casas decimais'))
+n=str(numero)
+print('a unidade e {}'.format(n[3]))
+print('a dezena e {}'.format(n[2]))
+print('a centena e {}'.format(n[1]))
+print('a milhar desse numero e {}'.format(n[0]))
