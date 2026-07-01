@@ -1,0 +1,8 @@
+1:
+git add .
+2:
+git commit -m 'atualizando'
+3:
+git push origin main
+
+isso server para colocar novos projetos no git hub
